@@ -14,5 +14,15 @@ CSSsimplemenu
 তারপর আপনার মেইনমেন্যুর ul কে nav5454 ID দিলেই মেন্যুটি কাজ করবে। 
 
 
+যেমন
+
+<code><pre>&lt;ul id="nav_5454"&gt;
+&lt;li&gt;&lt;a href=""&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;About Us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;Others&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;Video Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</code></pre>
+
 
 ডেমো: http://dl.dropbox.com/u/47993833/css_menu_for_rrf/index.html
