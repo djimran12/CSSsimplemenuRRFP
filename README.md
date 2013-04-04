@@ -16,7 +16,7 @@ CSSsimplemenu
 
 যেমন
 
-<code><pre>
+<pre><code>
 &lt;ul id="nav_5454"&gt;
 &lt;li&gt;&lt;a href=""&gt;Home&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=""&gt;About Us&lt;/a&gt;&lt;/li&gt;
