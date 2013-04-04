@@ -8,6 +8,7 @@ CSSsimplemenu
 
 প্রথমে menu.css কে head ট্যাগের আগে কল করে নিবেন। 
 
+<pre><code><link rel="stylesheet" type="text/css" href="css/menu.css"/></code></pre>
 
 তারপর আপনার মেইনমেন্যুর ul কে nav5454 ID দিলেই মেন্যুটি কাজ করবে। 
 
